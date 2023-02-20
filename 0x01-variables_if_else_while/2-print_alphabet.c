@@ -1,8 +1,3 @@
-/*
- * File: 2-print_alphabet.c
- * Auth: Solomon Kassa
- */
-
 #include <stdio.h>
 
 /**

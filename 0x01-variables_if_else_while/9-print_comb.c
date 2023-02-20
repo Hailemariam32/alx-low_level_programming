@@ -1,8 +1,3 @@
-/*
- * File: 9-print_comb.c
- * Auth: Solomon Kassa
- */
-
 #include <stdio.h>
 
 /**

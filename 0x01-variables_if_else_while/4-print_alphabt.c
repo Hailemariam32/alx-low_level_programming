@@ -1,8 +1,3 @@
-/*
- * File: 4-print_alphabt.c
- * Auth: Solomon kassa
- */
-
 #include <stdio.h>
 
 /**

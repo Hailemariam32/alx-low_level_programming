@@ -1,8 +1,3 @@
-/*
- * File: 7-print_tebahpla.c
- * Auth: Solomon Kassa
- */
-
 #include <stdio.h>
 
 /**

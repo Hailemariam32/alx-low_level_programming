@@ -1,6 +1,6 @@
 /*
  * File: 4-puts.c
- * Auth: Solomon kassa
+ * Auth:Hailemariam Habrualem  
  */
 
 #include <stdio.h>

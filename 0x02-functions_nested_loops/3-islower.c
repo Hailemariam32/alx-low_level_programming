@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * lowercase character. Another cases, shows
+ * _islower :wq
+ * _islower is a  lowercase character. Another cases, shows
  * 
- *
  * @c: The character in ASCII code
  *
  * Return: 1 for lowercase character. 0 for the rest.

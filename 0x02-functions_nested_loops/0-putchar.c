@@ -1,10 +1,9 @@
 #include "main.h"
 /**
- * intry point function
+ *main - Entry point
  *
  *Return: nothing, return void
  */
-
 int main(void)
 {
 	_putchar('_');

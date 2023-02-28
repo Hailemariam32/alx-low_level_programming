@@ -1,1 +1,1 @@
- # This folder is about pointers, arrays, strings and data types 
+#  This folder is about pointers, arrays, strings and data types 
